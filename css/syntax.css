@@ -1,3 +1,6 @@
-#sub-content p{
-    color:red;
+#header p{
+    text-transform: capitalize;
+}
+body > p{
+    text-transform: uppercase;
 }
