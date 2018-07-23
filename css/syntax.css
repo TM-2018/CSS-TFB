@@ -1,22 +1,3 @@
-/*************************
-*
-* Author: TM on the basis of The Net Ninja CSS for Beginners Tutorial
-* Date: July 2018
-*
-**************************/
-/*Style all the p tags */
-
-p{
-    font-size: 18px;
-    color: blue;
-}
-
-#header p  {
-    font-size: 24px;
-}
-
-/* Style all the header tags */
-
-h1{
-    font-size: 40px;
+#sub-content p{
+    color:red;
 }
